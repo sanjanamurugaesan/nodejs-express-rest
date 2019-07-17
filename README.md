@@ -1,7 +1,7 @@
 # Node.js Express REST API
 
 Once cloned the github, 
-1. npm install
+1. npm install then,  npm start
 2. server is listening to 3002
 3. Try in postman  http://localhost:3002/api/v1/parse
     Input  Request Body
